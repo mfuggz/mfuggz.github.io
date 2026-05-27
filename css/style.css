@@ -1,16 +1,3 @@
-/*
-Cited links for code I borrowed
-
-https://shorturl.at/SkVmb - dev.to Satish; for creating an overlay effect on an image
-     .first-item:hover .overlay 
-
-https://shorturl.at/kY10a - Divimode; for opacity transitions on images/galleries
-    .overlay and .text
-    transition: opacity 0.5s ease;
-
-https://shorturl.at/6Wpq5 - MDN Mozilla Developer Site; for changing individual image brightness    
-
-*/
 
 /* Variables */
 :root {
